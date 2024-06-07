@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	height: 100vh;
+	background: rgb(95, 10, 135);
+	background: linear-gradient(
+		90deg,
+		rgba(95, 10, 135, 1) 0%,
+		rgba(203, 30, 151, 1) 100%
+	);
+	font-family: "Montserrat";
+}
